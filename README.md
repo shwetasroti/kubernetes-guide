@@ -1,4 +1,5 @@
 # kubernetes-guide
+![image](https://user-images.githubusercontent.com/96919604/150732469-14f9090a-4a02-48ed-8cc5-78dcddb25db7.png)
 
 Kubernetes - PODs
 Step-01: PODs Introduction
