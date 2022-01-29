@@ -122,3 +122,8 @@ kubectl delete pod my-first-pod
 
 # Get all Objects in default namespace
 kubectl get all
+  
+  
+# Flow Chart
+  ![k8s](https://user-images.githubusercontent.com/96919604/151666716-0c7689bc-d240-41af-8099-c1037607a394.png)
+
